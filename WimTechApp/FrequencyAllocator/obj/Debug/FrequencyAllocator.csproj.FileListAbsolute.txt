@@ -1,0 +1,7 @@
+C:\Users\ViraMan\Desktop\Draft_Projects\WimTechApp\FrequencyAllocator\bin\Debug\FrequencyAllocator.exe.config
+C:\Users\ViraMan\Desktop\Draft_Projects\WimTechApp\FrequencyAllocator\bin\Debug\FrequencyAllocator.exe
+C:\Users\ViraMan\Desktop\Draft_Projects\WimTechApp\FrequencyAllocator\bin\Debug\FrequencyAllocator.pdb
+C:\Users\ViraMan\Desktop\Draft_Projects\WimTechApp\FrequencyAllocator\obj\Debug\FrequencyAllocator.csprojAssemblyReference.cache
+C:\Users\ViraMan\Desktop\Draft_Projects\WimTechApp\FrequencyAllocator\obj\Debug\FrequencyAllocator.csproj.CoreCompileInputs.cache
+C:\Users\ViraMan\Desktop\Draft_Projects\WimTechApp\FrequencyAllocator\obj\Debug\FrequencyAllocator.exe
+C:\Users\ViraMan\Desktop\Draft_Projects\WimTechApp\FrequencyAllocator\obj\Debug\FrequencyAllocator.pdb
